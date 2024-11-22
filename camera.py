@@ -1,3 +1,6 @@
+"""
+@author: Huu Hieu <peterjohn.dev@protonmail.com>
+"""
 import cv2
 import torch
 import time
