@@ -1,3 +1,6 @@
+"""
+@author: Huu Hieu <peterjohn.dev@protonmail.com>
+"""
 import os
 os.environ['KMP_DUPLICATE_LIB_OK'] = 'TRUE'
 from PIL import Image
